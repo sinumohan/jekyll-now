@@ -1,4 +1,4 @@
-I wrote a wraper for [Clockify](https://clockify.me) REST APIs.
+I have written an npm module for [Clockify](https://clockify.me) REST APIs.
 
 [NPM Package](https://www.npmjs.com/package/clockify-npm).
 
