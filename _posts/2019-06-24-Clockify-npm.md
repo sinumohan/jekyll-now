@@ -1,3 +1,5 @@
+> [NPM Package](https://www.npmjs.com/package/clockify-npm).
+> [Git Hub](https://github.com/sinumohan/clockify-npm).
 > A wraper for [Clockify](https://clockify.me) REST APIs. 
 > For API docs Please refer [developers-api](https://clockify.me/developers-api). 
 
