@@ -1,5 +1,3 @@
-# clockify-npm
-
 > A wraper for [Clockify](https://clockify.me) REST APIs. 
 > For API docs Please refer [developers-api](https://clockify.me/developers-api). 
 
